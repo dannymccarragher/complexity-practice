@@ -209,7 +209,7 @@ public class Main {
   // and access the current price for each stock. The order of the ticker symbols
   // is not important.
   // What would be a good choice of data structure?
-  // YOUR ANSWER HERE
+  // HashMap
 
   // Suppose you are building a music player application where users can create
   // playlists.
@@ -219,7 +219,7 @@ public class Main {
   // accessing them by
   // their position in the playlist.
   // What would be a good choice of data structure?
-  // YOUR ANSWER HERE
+  // ArrayList
 
   // Suppose you are developing a search feature that keeps track of the user's
   // recent search queries. You want to store the queries in the order they were
@@ -230,5 +230,5 @@ public class Main {
   // searches than
   // to optimize for fast lookups or deletions.
   // What would be a good choice of data structure?
-  // YOUR ANSWER HERE
+  // TreeSet
 }
